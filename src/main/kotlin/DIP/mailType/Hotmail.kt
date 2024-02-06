@@ -1,4 +1,6 @@
-package inversion
+package DIP.mailType
+
+import DIP.InterfaceMessage
 
 class Hotmail: InterfaceMessage {
 

@@ -1,6 +1,6 @@
-package inversion.methods
+package DIP.methods
 
-import inversion.InterfaceMessage
+import DIP.InterfaceMessage
 class Notification3: InterfaceMessage {
     override fun send() {
         mailType.send()

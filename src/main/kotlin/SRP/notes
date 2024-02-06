@@ -1,0 +1,12 @@
+package SRP
+
+// ? 1  Single Responsibility Principle (SRP)
+
+A class should have only one reason to change ,A class should have only one job
+A class should have only one responsibility
+
+there is a class level and method level
+class level: a class should have only one reason to change (not more than one responsibility like class banck have a responsibility to manage the account and also to manage the customer # not good)
+method level: a method should have only one reason to change (not more than one responsibility like method addCustomer have a responsibility to add customer and also to send email # not good)
+
+

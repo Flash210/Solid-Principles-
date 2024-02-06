@@ -1,4 +1,4 @@
-package inversion
+package DIP
 
 interface InterfaceMessage {
 

@@ -1,4 +1,6 @@
-package inversion
+package DIP.methods
+
+import DIP.InterfaceMessage
 
 class Gmail : InterfaceMessage {
 
